@@ -5,8 +5,6 @@
 
 This is my personal notes and codes for the course. The course covers Best Code Practices and Machine Learning Foundations With AWS.
 
-## AWS Machine Learning Foundations Course. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
-
 
 
 <br>
