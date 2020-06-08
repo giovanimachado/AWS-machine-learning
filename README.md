@@ -21,7 +21,6 @@ Exercise 3 - [Optimizing code: Holiday Gifts](https://github.com/giovanimachado/
 Exercise 1:
 <br>
 * Exercise 1.1 - [Test Code: Corrected Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch_solution.py) X [Test Code: Wrong Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch.py)
-<br>
 * Exercise 1.2 - [Test Code: Improved Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch_modified.py) X [Test Code: Original Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch.py)
 <br>
 <br>
