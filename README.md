@@ -13,22 +13,17 @@ Exercise 2 - [Optimizing code: Common Books](https://github.com/giovanimachado/A
 <br>
 <br>
 Exercise 3 - [Optimizing code: Holiday Gifts](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise3_optimizing_code_holiday_gifts_mySolution.ipynb): compare use of "For loops" and "Numpy".
-<br>
-<br>
-
 
 ## Lesson 3. [Software Engineering Practices Pt II](https://classroom.udacity.com/courses/ud090#)
+
 Exercise 1:
 <br>
-* Exercise 1.1 - [Test Code: Corrected Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch_solution.py) X [Test Code: Wrong Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch.py)
-* Exercise 1.2 - [Test Code: Improved Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch_modified.py) X [Test Code: Original Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch.py)
-<br>
-<br>
-<br>
+- Exercise 1.1 - [Test Code: Corrected Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch_solution.py) X [Test Code: Wrong Code](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/compute_launch.py)
+- Exercise 1.2 - [Test Code: Improved Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch_modified.py) X [Test Code: Original Unit Test](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson3_exercise1/test_compute_launch.py)
 
 ## Lesson 4. [Object Oriented Programming](https://classroom.udacity.com/courses/ud090#)
+
 Exercise 1 - [OOP_syntax: Create Shirt_Class](https://github.com/giovanimachado/AWS-machine-learning/tree/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_1.OOP_syntax_shirt_practice)
-<br>
 <br>
 Exercise 2 - [OOP_syntax: Create Pants and_SalesPerson Classes](https://github.com/giovanimachado/AWS-machine-learning/tree/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_1.OOP_syntax_shirt_practice)
 <br>
