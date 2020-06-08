@@ -6,8 +6,8 @@
 This is my personal notes and codes for the course. The course covers Best Code Practices and Machine Learning Foundations With AWS.
 
 ## Lesson 2. [Software Engineering Practices Pt I](https://classroom.udacity.com/courses/ud090#)
-Exercise 1 - [Refactoring code: Wine_quality](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise1_refactor_wine_quality.ipynb_solution.ipynb)
-Exercise 2 - [Optimizing code: Common Books](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise2_optimizing_code_common_books_mySolution.ipynb): compare use of For loops, Vectorized operations and use of Sets. 
+Exercise 1 - [Refactoring code: Wine_quality](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise1_refactor_wine_quality.ipynb_solution.ipynb)<br>
+Exercise 2 - [Optimizing code: Common Books](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise2_optimizing_code_common_books_mySolution.ipynb): compare use of For loops, Vectorized operations and use of Sets.<br>
 Exercise 3 - [Optimizing code: Holiday Gifts](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson2_exercise3_optimizing_code_holiday_gifts_mySolution.ipynb): compare use of "For loops" and "Numpy".
 
 ## Lesson 3. [Software Engineering Practices Pt II](https://classroom.udacity.com/courses/ud090#)
