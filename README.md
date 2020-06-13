@@ -23,5 +23,6 @@ Exercise 1 - [OOP_syntax: Create Shirt_Class](https://github.com/giovanimachado/
 <br>
 Exercise 2 - [OOP_syntax: Create Pants and_SalesPerson Classes](https://github.com/giovanimachado/AWS-machine-learning/tree/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_1.OOP_syntax_shirt_practice)
 <br>
+Exercise 3 - [OOP_syntax: Create Gaussian Class](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_3.OOP_code_gaussian_class/gaussian_code_exercise.ipynb)
 <br>
 <br>
