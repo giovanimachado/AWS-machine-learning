@@ -28,6 +28,7 @@ Exercise 3 - [OOP_syntax: Create Gaussian Class](https://github.com/giovanimacha
 Exercise 4 - [OOP_syntax: Add Magic Methods to Gaussian Class](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_4.OOP_code_magic_methods/magic_methods.ipynb)
 <br>
 Exercise 5 - [OOP_syntax: Inheritance exercise](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_5.OOP_code_inheritance_clothing/inheritance_exercise_clothing.ipynb)
-
+<br>
+Exercise 6 - [OOP_syntax: Inheritance apllied to Gaussian Distribution](https://github.com/giovanimachado/AWS-machine-learning/blob/master/AWS%20Machine%20Learning%20Foundations%20Course/Lesson4_6.OOP_code_inheritance_distributions/inheritance_probability_distribution.ipynb)
 <br>
 <br>
